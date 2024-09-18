@@ -17,6 +17,7 @@ public class Week2 {
     public static void main(String[] args) {
         // TODO code application logic here
         // hello all this is pull
+        // illustrating fetch and merge
         System.out.println("Hello World");
     }
     
